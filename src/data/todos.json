@@ -1,0 +1,26 @@
+[
+  {
+    "todoID": 1,
+    "userID": 1,
+    "title": "My task",
+    "description": "Great task",
+    "date": 1612914220
+  },
+  {
+    "todoID": 2,
+    "userID": 1,
+    "title": "Another task",
+    "description": "Some other details",
+    "completed": false,
+    "category": "Fava",
+    "date": 1612914280
+  },
+  {
+    "todoID": 3,
+    "userID": 1,
+    "title": "This is my task ",
+    "description": "added new task",
+    "userId": "114409975429463909386",
+    "date": 1613000590
+  }
+]
