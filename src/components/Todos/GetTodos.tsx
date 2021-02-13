@@ -72,7 +72,7 @@ const GetToDos = () => {
   // Delete Todo
   const delTodo = (id: string) => {
     axios
-      .delete(`https://my-json-server.typicode.com/viaventures/todos/${id}`)
+      .delete(`https://my-json-server.typicode.com/viaventures/todo-example/todos/${id}`)
       .then((res) =>
         setState({
           ...state,
@@ -85,7 +85,7 @@ const GetToDos = () => {
   const addTodo = (title: string, category: string) => {
     axios
       .post(
-        "https://my-json-server.typicode.com/viaventures/todos",
+        "https://my-json-server.typicode.com/viaventures/todo-example/todos",
         {
           title: title,
           completed: false,

@@ -1,28 +1,214 @@
 {
   "todos": [
     {
-      "todoID": 1,
-      "userID": 1,
-      "title": "My task",
-      "description": "Great task",
-      "date": 1612914220
-    },
-    {
-      "todoID": 2,
-      "userID": 1,
-      "title": "Another task",
-      "description": "Some other details",
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
       "completed": false,
-      "category": "Fava",
-      "date": 1612914280
+      "category": "Fava"
     },
     {
-      "todoID": 3,
-      "userID": 1,
-      "title": "This is my task ",
-      "description": "added new task",
-      "userId": "114409975429463909386",
-      "date": 1613000590
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false,
+      "category": "Fava"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "completed": false,
+      "category": "Fava"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "et porro tempora",
+      "completed": true,
+      "category": "Fava"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "completed": false,
+      "category": "Destination"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "completed": false,
+      "category": "Destination"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "illo expedita consequatur quia in",
+      "completed": false,
+      "category": "Destination"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "quo adipisci enim quam ut ab",
+      "completed": true,
+      "category": "Destination"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "molestiae perspiciatis ipsa",
+      "completed": false,
+      "category": "Fava"
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "illo est ratione doloremque quia maiores aut",
+      "completed": true,
+      "category": "Brunch"
+    },
+    {
+      "userId": 1,
+      "id": 11,
+      "title": "vero rerum temporibus dolor",
+      "completed": true,
+      "category": "Brunch"
+    },
+    {
+      "userId": 1,
+      "id": 12,
+      "title": "ipsa repellendus fugit nisi",
+      "completed": true,
+      "category": "Fava"
+    },
+    {
+      "userId": 1,
+      "id": 13,
+      "title": "et doloremque nulla",
+      "completed": false,
+      "category": "Destination"
+    },
+    {
+      "userId": 1,
+      "id": 14,
+      "title": "repellendus sunt dolores architecto voluptatum",
+      "completed": true,
+      "category": "Destination"
+    },
+    {
+      "userId": 1,
+      "id": 15,
+      "title": "ab voluptatum amet voluptas",
+      "completed": true,
+      "category": "Destination"
+    },
+    {
+      "userId": 1,
+      "id": 16,
+      "title": "accusamus eos facilis sint et aut voluptatem",
+      "completed": true,
+      "category": "Brunch"
+    },
+    {
+      "userId": 1,
+      "id": 17,
+      "title": "quo laboriosam deleniti aut qui",
+      "completed": true,
+      "category": "Brunch"
+    },
+    {
+      "userId": 1,
+      "id": 18,
+      "title": "dolorum est consequatur ea mollitia in culpa",
+      "completed": false,
+      "category": "Fava"
+    },
+    {
+      "userId": 1,
+      "id": 19,
+      "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
+      "completed": true,
+      "category": "Brunch"
+    },
+    {
+      "userId": 1,
+      "id": 20,
+      "title": "ullam nobis libero sapiente ad optio sint",
+      "completed": true,
+      "category": "Destination"
+    },
+    {
+      "userId": 2,
+      "id": 21,
+      "title": "suscipit repellat esse quibusdam voluptatem incidunt",
+      "completed": false,
+      "category": "Destination"
+    },
+    {
+      "userId": 2,
+      "id": 22,
+      "title": "distinctio vitae autem nihil ut molestias quo",
+      "completed": true,
+      "category": "Destination"
+    },
+    {
+      "userId": 2,
+      "id": 23,
+      "title": "et itaque necessitatibus maxime molestiae qui quas velit",
+      "completed": false,
+      "category": "Destination"
+    },
+    {
+      "userId": 2,
+      "id": 24,
+      "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
+      "completed": false,
+      "category": "Brunch"
+    },
+    {
+      "userId": 2,
+      "id": 25,
+      "title": "voluptas quo tenetur perspiciatis explicabo natus",
+      "completed": true,
+      "category": "Destination"
+    },
+    {
+      "userId": 2,
+      "id": 26,
+      "title": "aliquam aut quasi",
+      "completed": true,
+      "category": "Destination"
+    },
+    {
+      "userId": 2,
+      "id": 27,
+      "title": "veritatis pariatur delectus",
+      "completed": true,
+      "category": "Brunch"
+    },
+    {
+      "userId": 2,
+      "id": 28,
+      "title": "nesciunt totam sit blanditiis sit",
+      "completed": false,
+      "category": "Fava"
+    },
+    {
+      "userId": 2,
+      "id": 29,
+      "title": "laborum aut in quam",
+      "completed": false,
+      "category": "Brunch"
+    },
+    {
+      "userId": 2,
+      "id": 30,
+      "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
+      "completed": true,
+      "category": "Destination"
     }
   ],
   "users": [
@@ -33,8 +219,8 @@
     }
   ],
   "categories": [
-    "Home",
-    "Work",
-    "Fitness"
+    "Fava",
+    "Brunch",
+    "Destination"
   ]
 }
